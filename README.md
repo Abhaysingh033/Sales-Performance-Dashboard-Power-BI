@@ -5,7 +5,7 @@ To analyze sales performance and identify trends, high-performing categories, ci
 
 ## 📂 Dataset Description
 - Source: Public sales dataset
-- Rows: 1195
+- Rows: 1194
 - Columns: Order Date, Category, City, Region, Sales Amount, Profit, Quantity
 - Note: Currency is not specified; values are treated as numeric amounts.
 
